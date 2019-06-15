@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413032521701",
+    "firebase_url": "https://aleppogrill2.firebaseio.com",
+    "project_id": "aleppogrill2",
+    "storage_bucket": "aleppogrill2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413032521701:android:2fece37091abf720",
+        "android_client_info": {
+          "package_name": "waleeed.my.aleppogrill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413032521701-a9ajui4ffhp5g95g5c3bvc4f6u4dm6bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "waleeed.my.aleppogrill",
+            "certificate_hash": "c932fb8e90e8c9143a0b1f23c8e790fe88353d3f"
+          }
+        },
+        {
+          "client_id": "413032521701-74p6s02f5ch2iirt2uomkuqolp7pfet0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxnTJaRjabl3xYLhf1yeehXoFbRzyOzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413032521701-74p6s02f5ch2iirt2uomkuqolp7pfet0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
